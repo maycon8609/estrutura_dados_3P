@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554156191 source:/home/maycon/Documentos/c++_carleandro/PonteiroCadastroAluno/main.cpp
+	<iostream>
+	<stdlib.h>
+
+1556756413 source:/home/maycon/Documentos/c++_carleandro/estrutura_dados/PonteiroCadastroAluno/main.cpp
+	<iostream>
+	<stdlib.h>
+

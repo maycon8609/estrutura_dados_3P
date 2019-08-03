@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552609735 source:/home/maycon/Downloads/aulas_c++/alunoMedia/main.cpp
+	<iostream>
+
+1552695604 source:/home/maycon/Documentos/aulas_c++/alunoMedia/main.cpp
+	<iostream>
+	<string>
+

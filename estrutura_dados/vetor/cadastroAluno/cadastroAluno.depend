@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553220895 source:/home/maycon/Downloads/aulas_c++/cadastroAluno/main.cpp
+	<iostream>
+	<string>
+
+1555174632 source:/home/maycon/Documentos/c++_carleandro/estrutura_dados/cadastroAluno/main.cpp
+	<iostream>
+	<string>
+

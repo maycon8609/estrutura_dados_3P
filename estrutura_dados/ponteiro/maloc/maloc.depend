@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553814675 source:/home/maycon/Downloads/aulas_c++/maloc/main.cpp
+	<iostream>
+	<cstdlib>
+
+1553851514 source:/home/maycon/Documentos/c++_carleandro/maloc/main.cpp
+	<iostream>
+	<cstdlib>
+
+1555174632 source:/home/maycon/Documentos/c++_carleandro/estrutura_dados/maloc/main.cpp
+	<iostream>
+	<cstdlib>
+

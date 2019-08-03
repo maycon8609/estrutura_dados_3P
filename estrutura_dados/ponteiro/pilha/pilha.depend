@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555022621 source:/home/maycon/Documentos/c++_carleandro/exercicio_07/pilha/main.cpp
+	<iostream>
+	<stdlib.h>
+
+1560045929 source:/home/maycon/Documentos/c++/estrutura_dados/ponteiro/pilha/main.cpp
+	<iostream>
+	<stdlib.h>
+

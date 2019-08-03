@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555550631 source:/home/maycon/Documentos/c++_carleandro/estrutura_dados/torreHanoy/main.cpp
+	<iostream>
+
+1556473029 source:/home/maycon/Documentos/c++_carleandro/estrutura_dados/torreHanoy/torreHanoy/main.cpp
+	<iostream>
+	<stdlib.h>
+

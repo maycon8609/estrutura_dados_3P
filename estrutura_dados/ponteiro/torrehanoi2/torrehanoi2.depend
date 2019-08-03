@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555559088 source:/home/maycon/Documentos/aula_antonio/c++/torrehanoi2/main.cpp
+	<iostream>
+
+1556476300 source:/home/maycon/Documentos/c++_carleandro/estrutura_dados/torrehanoi2/main.cpp
+	<iostream>
+	<stdlib.h>
+
